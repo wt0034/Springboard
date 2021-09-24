@@ -1,0 +1,3 @@
+Ridge Regression: {'alpha': 0.1}
+Lasso Regresion: {'alpha': 10}
+Elastic Net Regression Hyperparamter: {'alpha': 10, 'l1_ratio': 1}
